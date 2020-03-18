@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiweeraith.hnyingzhijie.cn/sitemap.xml
